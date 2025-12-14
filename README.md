@@ -187,5 +187,5 @@ Commercial or redistribution use to be defined.
 
 ---
 
-**Author:** Jaymeen Vaghela
+**Author:** Jaymeen Vaghela<br>
 **Status:** Active development 🚀
