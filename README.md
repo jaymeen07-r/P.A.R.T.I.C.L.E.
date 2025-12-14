@@ -104,7 +104,7 @@ Each atom represents exactly one intent:
 ## 📦 Project Structure (Suggested)
 
 ```
-qacc/
+particle/
 │
 ├── core/
 │   ├── input_handler.py
