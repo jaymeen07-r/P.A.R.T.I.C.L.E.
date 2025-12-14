@@ -118,7 +118,7 @@ particle/
 │   ├── tier3_vault.json
 │
 ├── visual/
-│   ├── renderer.py   # (optional – Pygame / Canvas)
+│   ├── renderer.py 
 │
 ├── main.py
 └── README.md
