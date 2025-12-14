@@ -176,7 +176,7 @@ Future upgrade: **SQLite / encrypted storage**
 
 > *"The fastest interface is the one your brain already remembers."*
 
-QACC blends **visual memory**, **numeric muscle memory**, and **secure execution** into a single abstraction layer—designed for developers, thinkers, and power users.
+PARTICALE blends **visual memory**, **numeric muscle memory**, and **secure execution** into a single abstraction layer—designed for developers, thinkers, and power users.
 
 ---
 
